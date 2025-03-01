@@ -21,4 +21,4 @@ This project analyzes retail sales data using SQL and Power BI to gain insights 
 2. Open `Vizualized.pbit` in Power BI to view the reports.
 
 ## ✨ Author
-**Bala** - Aspiring Data Analyst
+**Balamurugesh Nagaraj** - Aspiring Data Analyst
